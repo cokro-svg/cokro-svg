@@ -1,5 +1,3 @@
----
-
 # Hi there! 👋 I'm Cokro  
 
 ### 🌟 About Me  
@@ -20,9 +18,7 @@ Feel free to connect with me:
 - 💬 Let’s chat and grow together!  
 
 ### ⚡ Fun Fact  
-I'm a curious learner who loves solving problems and believes that with **consistency and passion**, the possibilities are endless!  
-
----
+- I'm a curious learner who loves solving problems and believes that with **consistency and passion**, the possibilities are endless!  
 
 <!---
 cokro-svg/cokro-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
